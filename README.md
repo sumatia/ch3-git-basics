@@ -1,3 +1,4 @@
 # Chapter 3 Exercises
 
-My name is Sumati
+Hello there, I am Sumati Ahuja
+
